@@ -1,6 +1,6 @@
 # VR-Piano
 
-Installation
+## Installation
 
 Unity Version 2019.3
 
