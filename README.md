@@ -1,5 +1,8 @@
 # VR-Piano
 
+## Hackerearth AR/VR Hackathon prize winner project
+https://www.hackerearth.com/challenges/hackathon/arvr-hackathon-1/
+
 ## Installation
 
 Unity Version 2019.3
